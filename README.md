@@ -1,6 +1,6 @@
 ### Hi, I'm Tomisin!
 
-👩🏾‍💻 Aspiring Software Engineer, passionate about inclusion excellence and building impactful projects <br/>
+👩🏾‍💻 Aspiring Computer Scientist  & Tech enthusiast, passionate about inclusion excellence and building impactful projects <br/>
 📚 Currently a computer science Major at the University of Maryland Baltimore County (UMBC) <br/>
 💻 Proficient in Python,C++, JavaScript and TypeScript <br/>
 ✨ I enjoy using coding to incorporate my aesthetics and culture
